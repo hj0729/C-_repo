@@ -20,7 +20,7 @@
 ## 项目结构说明
 > `xinlian-healthy-check`  
 >
-> > `.gitignore` -- 忽略提交配置
+> > `.gitignore` -- git提交配置
 > >
 > > `README.md` -- 项目自述文件
 > >
